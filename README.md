@@ -1,4 +1,3 @@
-<<<<<<< Updated upstream
 # Final-Project
 =======
 # The "dan/als" mistake in Twitter posts
@@ -8,4 +7,4 @@ This project is about frequency the "dan/als" mistake in Dutch posts from Twitte
 
 ## Background information
 Still need to research this.
->>>>>>> Stashed changes
+
