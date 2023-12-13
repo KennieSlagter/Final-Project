@@ -8,3 +8,8 @@ This project is about frequency the "dan/als" mistake in Dutch posts from Twitte
 ## Background information
 Still need to research this.
 
+## Research question and hypotheses
+Still need to do this.
+
+## Method
+Still need to do this
