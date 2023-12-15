@@ -20,9 +20,9 @@ I will filter the tweets with the following "dan/als" mistakes:
 
 And measuring the frequency of the "als" mistake and the "dan" mistake separately and measuring the frequency of those mistakes between the following age groups:
 * 13 - 20 Years
-* 21 - 35
-* 36 - 60
-* 60+
+* 21 - 35 Years
+* 36 - 60 Years
+* 60+ Years
 
 ## References
 [^1]: 
