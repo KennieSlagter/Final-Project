@@ -7,4 +7,23 @@ The method I will be be using. I will be using a large dataset of Dutch twitter 
 | graag | liever | liefst |
 | veel | meer | meest |
 | weinig | minder | minst |
+
+I will filter the tweets with the following "dan/als" mistakes:
+* beter als 
+* liever als 
+* meer als 
+* minder als
+* net zo goed dan
+* net zo graag dan
+* net zo veel dan
+* net zo weinig dan
+
+And measuring the frequency of the "als" mistake and the "dan" mistake separately and measuring the frequency of those mistakes between the following age groups:
+* 13 - 20 Years
+* 21 - 35
+* 36 - 60
+* 60+
+
+## References
+[^1]: 
         
