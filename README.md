@@ -1,15 +1,10 @@
 # Final-Project
 =======
-# The "dan/als" mistake in Twitter posts
-
-## Abstract 
-This project is about frequency the "dan/als" mistake in Dutch posts from Twitter between the different ages. We will be looking both at the "dan" mistake as the "als" mistake. This will be done using a dataset of Dutch Twitter posts and filtering out the posts with the "dan/als" mistake and filtering out the user's age and putting these statistics in a graph.
-
-## Background information
-Still need to research this.
-
-## Research question and hypotheses
-Still need to do this.
-
-## Method
-Still need to do this
+# Method
+The method I will be be using. I will be using a large dataset of Dutch twitter posts from https://huggingface.co/datasets/dutch_social. Which is a dataset that contains 271,342 tweet, where all the tweets are in the Dutch language. I will be filtering out tweets based on the most common degrees of comparison in Dutch which are: 
+| goed | beter | best |
+| ---- | ----- | ---- | 
+| graag | liever | liefst |
+| veel | meer | meest |
+| weinig | minder | minst |
+        
