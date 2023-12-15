@@ -27,5 +27,5 @@ And measuring the frequency of the "als" mistake and the "dan" mistake separatel
 I will be getting the ages of the different users using the methods of Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos. They used amodel based on a Convolutional Neural Network to identify the age of each user. Which is better than the previous one that is made and is 12,3% more accurate to identify the ages of users on the Dutch dataset.[^1]
 
 ## References
-[^1]: Pandya, Abhinay, and Mourad Oussalah, and Paola Monachesi, and Panos Kostakos. 2020. On the use of distributed semantics of tweet metadata for user age prediction. Future Generation Computer Sytems, 102, 0167-739X: 437-452. https://doi.org/10.1016/j.future.2019.08.018  
+[^1]: Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos. “On the Use of Distributed Semantics of Tweet Metadata for User Age Prediction.” Future Generation Computer Systems 102 (2020): 437–52. https://doi.org/10.1016/j.future.2019.08.018.
         
