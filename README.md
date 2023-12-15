@@ -23,7 +23,8 @@ And measuring the frequency of the "als" mistake and the "dan" mistake separatel
 * 21 - 35 Years
 * 36 - 60 Years
 * 60+ Years
+I will be getting the ages of the different users using the method of [^1]
 
 ## References
-[^1]: 
+[^1]: Pandya, Abhinay, and Mourad Oussalah, and Paola Monachesi, and Panos Kostakos. 2020. On the use of distributed semantics od tweet metadata for user age prediction. Future Generation Computer Sytems, 102, 0167-739X: 437-452.
         
