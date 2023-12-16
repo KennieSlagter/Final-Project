@@ -39,7 +39,7 @@ And measuring the frequency of the "als" mistake and the "dan" mistake separatel
 * 36 - 60 Years
 * 60+ Years
 
-I will be getting the ages of the different users using the methods of Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos[^2]. They used amodel based on a Convolutional Neural Network to identify the age of each user. Which is better than the previous one that is made and is 12,3% more accurate to identify the ages of users on the Dutch dataset.
+I will be getting the ages of the different users using the methods of Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos[^2]. They used a model based on a Convolutional Neural Network to identify the age of each user. Which is better than the previous one that is made and is 12,3% more accurate to identify the ages of users on the Dutch dataset.
 
 ## References
 [^1]: Bernts, Marjolein. Het effect van frequentie en homofonie Op Spelfouten in Werkwoorden op sociale media, April 29, 2022. https://theses.ubn.ru.nl/server/api/core/bitstreams/bc4a3606-ae9c-44da-9859-490cb9127df4/content. 
