@@ -43,6 +43,6 @@ I will be getting the ages of the different users using the methods of Pandya, A
 
 ## References
 [^1]: Bernts, Marjolein. Het effect van frequentie en homofonie Op Spelfouten in Werkwoorden op sociale media, April 29, 2022. https://theses.ubn.ru.nl/server/api/core/bitstreams/bc4a3606-ae9c-44da-9859-490cb9127df4/content. 
-[^2]: Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos. “On the Use of Distributed Semantics of Tweet Metadata for User Age Prediction.” Future Generation Computer Systems 102 (2020): 437–52. https://doi.org/10.1016/j.future.2019.08.018. 
+[^2]: Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos. “On the Use of Distributed Semantics of Tweet Metadata for User Age Prediction.” Future Generation Computer Systems 102 (2020): 437–452. https://doi.org/10.1016/j.future.2019.08.018. 
 [^3]: Verheijen, Lieke, Wilbert Spooren, and Ans van Kemenade. “Relationships between Dutch Youths’ Social Media Use and School Writing.” Computers and Composition 56 (May 15, 2020): 102574. https://doi.org/10.1016/j.compcom.2020.102574.
         
