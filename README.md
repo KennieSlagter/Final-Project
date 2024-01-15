@@ -20,24 +20,17 @@ The method I will be using. I will be using a large dataset of Dutch Twitter pos
 | goed | beter | best |
 | ---- | ----- | ---- | 
 | graag | liever | liefst |
-| veel | meer | meest |
-| weinig | minder | minst |
 
 I will filter the tweets with the following "dan/als" mistakes:
 * beter als 
 * liever als 
-* meer als 
-* minder als
 * net zo goed dan
 * net zo graag dan
-* net zo veel dan
-* net zo weinig dan
+
 
 And measuring the frequency of the "als" mistake and the "dan" mistake separately and measuring the frequency of those mistakes between the following age groups:
-* 13 - 20 Years
-* 21 - 35 Years
-* 36 - 60 Years
-* 60+ Years
+* 13-35
+* 35+
 
 I will be getting the ages of the different users using the methods of Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos (2020) [^2]. They used a model based on a Convolutional Neural Network to identify the age of each user. Which is better than the previous one that is made and is 12,3% more accurate to identify the ages of users on the Dutch dataset.
 
