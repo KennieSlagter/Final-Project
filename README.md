@@ -34,6 +34,8 @@ And measuring the frequency of the "als" mistake and the "dan" mistake separatel
 
 I will be getting the ages of the different users using the methods of Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos (2020) [^2]. They used a model based on a Convolutional Neural Network to identify the age of each user. Which is better than the previous one that is made and is 12,3% more accurate to identify the ages of users on the Dutch dataset.
 
+Not all of the posts in the dataset will contain the "dan/als" mistake. So to create a good representation of which age group makes the "dan/als" mistake more we will get the percentage of "dan/als" mistakes of the total posts in that age group.
+
 ## References
 [^1]: Bernts, Marjolein. Het effect van frequentie en homofonie Op Spelfouten in Werkwoorden op sociale media, April 29, 2022. https://theses.ubn.ru.nl/server/api/core/bitstreams/bc4a3606-ae9c-44da-9859-490cb9127df4/content. 
 [^2]: Pandya, Abhinay, Mourad Oussalah, Paola Monachesi, and Panos Kostakos. “On the Use of Distributed Semantics of Tweet Metadata for User Age Prediction.” Future Generation Computer Systems 102 (2020): 437–452. https://doi.org/10.1016/j.future.2019.08.018. 
